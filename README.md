@@ -1,4 +1,4 @@
-# Kao-Chia Yu Assault Case
+# Kao-Chia Yu Assault Case Study
 
 This repository contains the following documents:
 1. All posts and comments containing the keyword "高嘉瑜" on PTT from 11/1-12/5
